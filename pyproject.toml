@@ -13,10 +13,3 @@ requires-python = ">=3.7"
 
 [tool.setuptools]
 packages = ["demo_package"]  # Ensure this matches your actual package directory
-[project]
-name = "test-repo"
-version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
